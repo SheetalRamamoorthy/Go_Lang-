@@ -1,0 +1,25 @@
+{
+    "Experience": 30,
+    "Name": "Sheetal",
+    "Skills": [
+        {
+            "Name": "RLang",
+            "experience": "two years",
+            "projectlist": [],
+            "projects": false
+        },
+        {
+            "Name": "python",
+            "experience": "10 days",
+            "projectlist": [
+                {
+                    "Description": "Random",
+                    "Name": "Random"
+                }
+            ],
+            "projects": true
+        }
+    ],
+    "Team": "KIC",
+    "phd": null
+}
